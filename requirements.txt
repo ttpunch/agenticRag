@@ -1,0 +1,15 @@
+langgraph              # optional if you want to add LangGraph orchestration later
+qdrant-client
+sentence-transformers
+numpy
+tqdm
+requests
+uvicorn                # optional if you turn any API into HTTP later
+python-multipart       # optional for uploads
+pdfplumber
+streamlit
+pyjwt
+bcrypt
+python-multipart   # for file uploads if you convert to an HTTP server later
+requests
+pytesseract
