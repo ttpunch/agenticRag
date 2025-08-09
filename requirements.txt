@@ -13,3 +13,6 @@ bcrypt
 python-multipart   # for file uploads if you convert to an HTTP server later
 requests
 pytesseract
+langchain_openai
+langchain_core    
+langchain_community 
